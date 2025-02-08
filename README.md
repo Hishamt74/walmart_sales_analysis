@@ -5,23 +5,23 @@ This project analyzes Walmart sales data to identify trends, patterns, and insig
 
 ## Objectives
 
--Perform exploratory data analysis (EDA) to uncover sales trends.
--Identify seasonality and patterns in sales data.
--Create visualizations using Power BI for better business insights.
--Develop predictive models using machine learning to forecast sales.
+1.Perform exploratory data analysis (EDA) to uncover sales trends.
+2.Identify seasonality and patterns in sales data.
+3.Create visualizations using Power BI for better business insights.
+4.Develop predictive models using machine learning to forecast sales.
 
 ## Tools & Technologies
 
--Programming: Python
--Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
--Visualization: Power BI, Excel
--Database: SQL
+1.Programming: Python
+2,Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+3.Visualization: Power BI, Excel
+4.Database: SQL
 
 # Results
 
--Identified peak sales periods and seasonal trends.
--Found the best-performing store locations and product categories.
--Developed a predictive model to estimate future sales.
+1.Identified peak sales periods and seasonal trends.
+2.Found the best-performing store locations and product categories.
+3.Developed a predictive model to estimate future sales.
 
 Provided actionable insights to optimize inventory and marketing strategies
 
