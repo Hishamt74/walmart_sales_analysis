@@ -5,10 +5,10 @@ This project analyzes Walmart sales data to identify trends, patterns, and insig
 
 ## Objectives
 
-1.Perform exploratory data analysis (EDA) to uncover sales trends.
-2.Identify seasonality and patterns in sales data.
-3.Create visualizations using Power BI for better business insights.
-4.Develop predictive models using machine learning to forecast sales.
+*Perform exploratory data analysis (EDA) to uncover sales trends.
+*Identify seasonality and patterns in sales data.
+*Create visualizations using Power BI for better business insights.
+*Develop predictive models using machine learning to forecast sales.
 
 ## Tools & Technologies
 
