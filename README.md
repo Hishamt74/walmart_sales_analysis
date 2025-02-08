@@ -25,6 +25,6 @@ This project analyzes Walmart sales data to identify trends, patterns, and insig
 
 Provided actionable insights to optimize inventory and marketing strategies
 
-##Conclusion
+## Conclusion
 
 This analysis provides valuable insights for Walmart's sales performance, helping in data-driven decision-making for business growth.
